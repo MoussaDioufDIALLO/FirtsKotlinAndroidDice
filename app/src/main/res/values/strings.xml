@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dice-GAME</string>
+    <string name="roll">Roll</string>
+    <string name="calculate_tip">Calcul de pourboire</string>
+    <string name="bill_amount">Montant</string>
+    <string name="how_was_the_service">Pourboire (%)</string>
+    <string name="round_up_tip">Arrondir le pourboire?</string>
+    <string name="tip_amount">Montant du pourboire: %s</string>
+    <string name="title_activity_products">Products</string>
+    <string name="hint">Entrez un texte :</string>
+    <string name="second_hint">Entrez un autre texte :</string>
+    <string name="btn_text">Valider</string>
+</resources>
